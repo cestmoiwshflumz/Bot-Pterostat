@@ -2,7 +2,7 @@
 # If you need help, join our discord server here: https://discord.gg/zv6maQRah3
 
 # Bot Configuration
-token: 'MTIwMzA1NDA5MzM1OTM4NjcyNA.Gk_zgv.75GMMqPPAS8U1pIXWZu5-ij-Qn2-VCC-SCW8S8'
+token: ''
 presence:
     text: 'Eracia Panel'
     type: 'listening' # can be 'watching', 'playing', 'listening', or 'competing'. for 'streaming' is not working for now
